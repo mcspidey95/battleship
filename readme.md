@@ -1,6 +1,6 @@
 # BottleShip - The Guide
 
-**Sink or be sunk! Engage in strategic naval warfare in this classic Battleship game, reimagined in Python.**
+**Sink or be sunk! Engage in strategic naval warfare in this classic Battleship game, reimagined in Python with my own AI as your competitor.**
 
 ## Features
 
@@ -35,6 +35,16 @@
 3. **Record hits and misses:** Mark each shot as a hit or miss on both grids.
 4. **Sink ships:** Successfully hit all coordinates of an opponent's ship to sink it.
 5. **Win the game:** The first player to sink all of the opponent's ships wins!
+
+## Controls
+
+<kbd>esc</kbd> - Quit Game &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔵 - Miss
+
+<kbd>backspace</kbd> - Retry &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🟠 - Hit
+
+<kbd>space</kbd> - Pause Game &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔴 - Sunk
+
+<kbd>mouse click</kbd> - Select Coordinate
 
 ## Additional Information
 
