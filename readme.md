@@ -38,11 +38,11 @@
 
 ## Controls
 
-<kbd>esc</kbd> - Quit Game &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔵 - Miss
+<kbd>esc</kbd> - Quit Game <span style="padding-left: 220px;">🔵 - Miss</span>
 
-<kbd>backspace</kbd> - Retry &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🟠 - Hit
+<kbd>backspace</kbd> - Retry <span style="padding-left: 205px;">🟠 - Miss</span>
 
-<kbd>space</kbd> - Pause Game &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔴 - Sunk
+<kbd>space</kbd> - Pause Game <span style="padding-left: 195px;">🔴 - Miss</span>
 
 <kbd>mouse click</kbd> - Select Coordinate
 
