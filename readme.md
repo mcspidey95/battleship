@@ -10,6 +10,10 @@
 - **Sleek visuals:** Enjoy a visually appealing game board and smooth animations.
 - **Detailed tracking:** Keep track of your hits, misses, and sunk ships with clear indicators.
 
+![Screenshot 2023-12-23 181731](https://github.com/mcspidey95/bottleship/assets/90018162/d3fe9370-97b0-45ec-8e2a-f3e16ba25777)
+![Screenshot 2023-12-23 181739](https://github.com/mcspidey95/bottleship/assets/90018162/7a054730-87fa-43e9-b56b-84b3e1f2d83b)
+
+
 ## Getting Started
 
 1. **Install Python:** Ensure you have `Python >= 3.11` installed on your system.
@@ -20,8 +24,7 @@
    ```
    ```bash
    cd bottleship
-   ```![Screenshot 2023-12-23 181731](https://github.com/mcspidey95/bottleship/assets/90018162/d3fe9370-97b0-45ec-8e2a-f3e16ba25777)
-![Screenshot 2023-12-23 181739](https://github.com/mcspidey95/bottleship/assets/90018162/7a054730-87fa-43e9-b56b-84b3e1f2d83b)
+   ```
 
 
 3. **Run the game:** Navigate to the project directory and execute the main script:
