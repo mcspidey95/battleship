@@ -2,6 +2,8 @@
 
 **Sink or be sunk! Engage in strategic naval warfare in this classic Battleship game, reimagined in Python with my own AI as your competitor.**
 
+<img src="https://github.com/mcspidey95/bottleship/assets/90018162/d3fe9370-97b0-45ec-8e2a-f3e16ba25777" width="475"/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/mcspidey95/bottleship/assets/90018162/7a054730-87fa-43e9-b56b-84b3e1f2d83b" width="475"/>
+
 ## Features
 
 - **Multiple game modes:** Choose from Player vs. Computer, Player vs. Player, or Computer vs. Computer to tailor your experience.
@@ -21,6 +23,7 @@
    ```bash
    cd bottleship
    ```
+
 
 3. **Run the game:** Navigate to the project directory and execute the main script:
 
