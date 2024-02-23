@@ -39,5 +39,5 @@ pt.bar('human_ai',avg2)
 pt.show()
 
 print(shots2)
-print('human_ai average moves: ',avg1)
-print('basic_ai average moves: ',avg2)
+print('basic_ai average moves: ',avg1)
+print('human_ai average moves: ',avg2)
